@@ -1,4 +1,4 @@
-![avatar](./picture/framework.png)
+![Framework](./picture/framework.jpg)
 
 # Automated Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoST) #
 This is the implementation of Adaptive Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoSTG) in the following paper:
