@@ -3,6 +3,9 @@
 # Automated Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoST) #
 This is the implementation of Adaptive Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoSTG) in the following paper:
 
+##Please also refer to this github link https://github.com/HKUDS/AutoST ##
+
+
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
 
